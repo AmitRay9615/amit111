@@ -1,3 +1,1 @@
-
-
-print("Ray")
+print("amit")
